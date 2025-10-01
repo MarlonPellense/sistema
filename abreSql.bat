@@ -1,0 +1,1 @@
+start C:\xampp\mysql\bin\mysqld.exe
